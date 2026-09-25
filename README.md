@@ -26,6 +26,11 @@ This hackpad uses KMK firmware for everything.
 - The 3 keys currently act as macros.
 - The OLED is underworks due to not using KMK but will be done soon!
 
+## Mother Board
+Pretty basic, but fun silkscreen!
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Board/Pictures/Screenshot%202026-09-24%20224515.png)
+
+
 ## BOM:
 Here should be everything you need to make this hackpad
 
