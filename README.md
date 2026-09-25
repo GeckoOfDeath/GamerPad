@@ -3,7 +3,7 @@ GamerPad is a keyboard design that would allow you to quick chat in games withou
 
 🔥🔥🔥Description🔥🔥🔥
 
-I worked around 20 hours on the project (missed time on lapis LoL). Even though i had to take a big break i think it came out well. Small ajustments as well as a QWK Firmware pass will be needed once i have the mother board. It will type say "/ hello" on its own so you can avoid all the random "enter" and "/" while gaming!
+I worked around 20 hours on the project (missed time on lapis LoL). Even though i had to take a big break i think it came out well. I have given it a KWK firmware but small adjustments may be needed after receiving the parts. It will type say "/ hello" on its own so you can avoid all the random "enter" and "/" while gaming!
 
 ## Features:
 - White PLA case!
@@ -24,7 +24,7 @@ This hackpad uses KMK firmware for everything.
 
 - the rotary encoder acts as a button. Will change your "mode" in the future.
 - The 3 keys currently act as macros.
-- The OLED is underworks due to not using KMK but will be done soon!
+- The OLED is untested (due to lack of oled) But has been set up!
 
 ## Mother Board
 Pretty basic, but fun silkscreen!
