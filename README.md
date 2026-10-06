@@ -15,9 +15,9 @@ I worked around 20 hours on the project (missed time on lapis LoL). Even though 
 ## CAD Model: 
 It friction fits with 2 solid pieces. It has gaps for airflow along with optimal underglow experience without ypur hand falling into it. It uses a organic design to keep a natural atheistic. It can fit into your palm with ease along with being erginomic.
 
-![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Body/Pictures/Screenshot%202026-09-24%20222640.png)
-![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Body/Pictures/Screenshot%202026-09-24%20222702.png)
-![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Body/Pictures/Screenshot%202026-09-24%20222717.png)
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/CAD%20Pictures/Screenshot%202026-09-24%20222640.png)
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/CAD%20Pictures/Screenshot%202026-09-24%20222702.png)
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/CAD%20Pictures/Screenshot%202026-09-24%20222717.png)
 
 ## Firmware Overview
 This hackpad uses KMK firmware for everything. 
@@ -28,9 +28,8 @@ This hackpad uses KMK firmware for everything.
 
 ## Mother Board
 Pretty basic, but fun silkscreen!
-![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Board/Pictures/Screenshot%202026-09-24%20224515.png)
-
-
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/PCB%20Pictures/Screenshot%202026-09-24%20224515.png)
+![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/PCB%20Pictures/Screenshot%202026-09-28%20184201.png)
 ## BOM:
 Here should be everything you need to make this hackpad
 
