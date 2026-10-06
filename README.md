@@ -31,6 +31,7 @@ Pretty basic, but fun silkscreen!
 ![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/PCB%20Pictures/Screenshot%202026-09-24%20224515.png)
 ![Alt Text](https://github.com/GeckoOfDeath/GamerPad/blob/main/GamerPad/Images/PCB%20Pictures/Screenshot%202026-09-28%20184201.png)
 ## BOM:
+!!!!!!!!!! EXSTENDED BOM IN PRODUCTION FOLDER !!!!!!!!!!!!!
 Here should be everything you need to make this hackpad
 
 - 3x Cherry MX Switches
