@@ -1,10 +1,15 @@
-## BOM:
-Here should be everything you need to make this hackpad
+BOM:
+Here should be everything you need to make GamerPad
 
-- 3x Cherry MX Switches   
-- 3x DSA Keycaps
-- 12x WS2812B LEDs
-- 1x 0.91" 128x32 OLED Display
-- 1x EC11 Rotary Encoder
-- 1x XIAO RP2040
-- 1x Case (2 printed parts)
+Component Category,Total Quantity,Estimated Cost
+------------------,--------------,--------------
+Cherry MX Switches, 3            ,$5.85
+DSA Keycaps       , 5            ,$3
+12x WS2812B LEDs  , 12           ,$4
+0.91" 128x32 OLED Display , 1    ,$5.10
+EC11 Rotary Encoder , 1          ,$2
+XIAO RP2040       , 1            ,$3.20
+Case              , 1 (2 parts)  ,Near 0$
+PCB               , 1            ,$15 (depends on where you get pcb)
+
+Estimated Total Cost: 38.15$
