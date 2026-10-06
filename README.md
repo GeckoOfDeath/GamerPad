@@ -48,5 +48,3 @@ I might add more in the future! That's it for n
 
 Feel Free to build your own. 👷
 
-
-*schematic for board is in pictures file.
